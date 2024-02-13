@@ -1,17 +1,6 @@
-### Hi there 👋
-
-<!--
-**dee-bytes/dee-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on<br>
-Building websites and and implementing microservices architecture.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Building Web Applications and implementing microservices architecture.<br><br>
+👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
+🌱 **I’m currently learning:**  <br>OAuth, Cloud Services and Express.js.<br><br>
+💬 **Ask me about:**  <br>java, SpringBoot, JavaScript, React, and any general software development questions.<br><br>
+⚡ **Fun fact:**  <br> Still figuring out
