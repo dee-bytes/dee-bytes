@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 **I’m currently working on:**  <br>Building Web Applications and implementing microservices architecture.<br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 🌱 **I’m currently learning:**  <br>OAuth, Cloud Services and Express.js.<br><br>
